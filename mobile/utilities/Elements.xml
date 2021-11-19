@@ -1,0 +1,96 @@
+<html lang="en-us" class="wf-dosis-n3-active wf-dosis-n5-active wf-materialicons-n4-active wf-ubuntu-n3-active wf-active"><head>
+    <title>Appium Pro: The Weekly Appium Newsletter</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta property="og:title" content="Appium Pro: The Weekly Appium Newsletter">
+    <meta property="og:description" content="The free weekly newsletter for all things Appium.">
+    <meta property="og:image" content="https://appiumpro.com/img/social.png">
+    <meta property="og:url" content="https://appiumpro.com">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:site_name" content="Appium Pro">
+    <meta name="twitter:image:alt" content="Appium Pro">
+    <link rel="stylesheet" href="/css/appiumpro.css">
+
+    <!-- favicon stuff -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="Appium Pro">
+    <meta name="application-name" content="Appium Pro">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/61bII03-TtCmSUR7dw9MJF9q/recaptcha__en.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script src="https://js.tito.io/v1" async=""></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Dosis:300,500%7CUbuntu:300%7CMaterial+Icons:400" media="all"><script src="/js/appiumpro.js"></script>
+    
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-111081350-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111081350-2');
+</script>
+    
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+  </head>
+  <body>
+    <div class="headerWrapper  ">
+      <div class="header">
+        <div class="logoCont">
+            <div class="emptyLogo">&nbsp;</div>
+            <a class="mainLogo" href="/"><img class="logo" src="/img/appium-pro-logo-white.png"></a>
+          <a class="toggleMenu" href="javascript:void(0);"><i class="material-icons">menu</i></a>
+        </div>
+        <ul class="headerCont">
+          <li><a class="innerNavLink" href="/#subscribe">Subscribe</a></li>
+          <li><a href="/editions/latest">Latest</a></li>
+          <li><a href="/editions">All Editions</a></li>
+          <li><a href="/workshops">Workshops</a><div class="newMenu">NEW!</div></li>
+          <li><a href="/jobs">Jobs</a></li>
+          <li><a href="/sponsors">Sponsors</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/about">About</a></li>
+        </ul>
+      </div>
+    </div>
+
+<div class="hero smallHero">
+  <img class="heroImg" src="/img/hero.png">
+  <h1 class="heroTitle">Contact Us</h1>
+</div>
+<div class="contentWrapper">
+  <div class="content contactPage">
+
+    <div class="contactIntro">Got a question? A suggestion for our next edition? Song lyrics you just can't get out of your head? Send them our way; we're listening!</div>
+
+    <form class="contactForm" action="/contact" method="POST">
+      
+
+      <label for="contactEmail">Your E-mail Address:</label>
+      <input type="email" value="" name="email" id="contactEmail">
+      <label for="contactText">Your Message:</label>
+      <textarea id="contactText" name="message"></textarea>
+      <label>Your Real Personness:</label>
+      <div class="g-recaptcha" data-theme="dark" data-size="compact" data-sitekey="6LfSRj8UAAAAAJfq_RQI6y7etRh8GHvHcZBZhIol"><div style="width: 164px; height: 144px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfSRj8UAAAAAJfq_RQI6y7etRh8GHvHcZBZhIol&amp;co=aHR0cHM6Ly9hcHBpdW1wcm8uY29tOjQ0Mw..&amp;hl=en&amp;v=61bII03-TtCmSUR7dw9MJF9q&amp;theme=dark&amp;size=compact&amp;cb=g6qnbwhrb0b9" width="164" height="144" role="presentation" name="a-qllsn0pw4p63" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+      <input type="submit" class="button" value="Send">
+    </form>
+
+  </div>
+</div>
+    <div class="footer">
+      <img class="footerImg" src="/img/footer-bg.png"> 
+      <div class="cloudgreyTag">
+        <div>The Appium Pro newsletter and site are made with love by <a href="http://cloudgrey.io"><img src="/img/cloudgrey-logo-horiz-white.png"></a></div>
+      </div>
+      <div class="copyright">© 2018 - 2019 Cloud Grey, LP. All rights reserved. Appium is a registered trademark of the <a href="https://js.foundation">JS Foundation</a>. Appium logos, marks, and names used with permission.</div>
+    </div>
+  
+
+<div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="recaptcha challenge" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=61bII03-TtCmSUR7dw9MJF9q&amp;k=6LfSRj8UAAAAAJfq_RQI6y7etRh8GHvHcZBZhIol&amp;cb=ox8o32ycpr8w" name="c-qllsn0pw4p63" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div></body></html>
